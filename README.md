@@ -1,4 +1,6 @@
 # MadelineProto, a PHP MTProto telegram client
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMissSheyni%2FMadelineProto.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMissSheyni%2FMadelineProto?ref=badge_shield)
+
 
 Do join the official channel, [@MadelineProto](https://t.me/MadelineProto)!
 
@@ -727,3 +729,7 @@ src/danog/MadelineProto/
 Check out the [Contribution guide](https://github.com/danog/MadelineProto/blob/master/CONTRIBUTING.md) before contributing.
 Kiao by grizzly
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMissSheyni%2FMadelineProto.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMissSheyni%2FMadelineProto?ref=badge_large)
